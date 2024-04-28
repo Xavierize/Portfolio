@@ -4,16 +4,16 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #538dff;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #fff;
+    background-color: #63a2dd;
     padding: 20px 0;
     text-align: center;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #def3f2;
 }
 
 header h1 {
